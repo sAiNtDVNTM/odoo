@@ -6,6 +6,6 @@ Estuve horas y horas tratando de conseguir esa licencia e investigando si era po
 
 Verifique que Git estuviera actualizado, de igual manera con Python la ultima version. Instale Postgres.app y cree la base de datos con mi nombre
 
-Asi que empece a dar todo de mi inestigando como instalarlo en mi MacBook Air 2021 M1 y segui la ducumentacion de Odoo al pie de la letra (https://www.odoo.com/documentation/18.0/administration/on_premise/source.html) y logre instalar todo incluyendo la base de datos.
+Asi que empece a dar todo de mi investigando como instalarlo en mi MacBook Air 2021 M1 y segui la ducumentacion de Odoo al pie de la letra (https://www.odoo.com/documentation/18.0/administration/on_premise/source.html) y logre instalar todo incluyendo la base de datos.
 
 El unico problema que tengo es que no logre conectar mi base de datos a Odoo en python. No me alcanzo el tiempo y sigo intentando terminar los demas pasos, solo por el tiempo establecido en la hoja mando lo que tengo hecho hasta el momento.
