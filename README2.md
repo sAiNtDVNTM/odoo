@@ -1,6 +1,6 @@
-lo primero que hice fue tratar the ingresar a odoo.sh trate de hacer todo lo posible por levantar la instancia y crear un repositorio ne github.
+Lo primero que hice fue tratar de ingresar a odoo.sh trate de hacer todo lo posible por levantar la instancia y crear un repositorio de github.
 
-Pero no tuve exito ya que para utilizar odoo.sh tendria que tener una licencia comprada o una licencia de partner pero para lograr cualquiera de los dos tenia que ser pagaga.
+Pero no tuve exito ya que para utilizar odoo.sh tendria que tener una licencia comprada o una licencia de partner pero para obtener cualquiera de los dos tenia que ser pagaga.
 
 Estuve horas y horas tratando de conseguir esa licencia e investigando si era posible conseguirla gratis y no. Asi que busque otra solucion que era instalar localmente la opcion Odoo comunity que tambien es para desarrolladores.
 
